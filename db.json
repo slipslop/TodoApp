@@ -1,0 +1,28 @@
+{
+
+"todos":
+
+
+[
+    {
+        "id": 1,
+       "title": "Take out the trashes",
+        "completed": false
+      },
+      {
+        "id": 2,
+       "title": "Make food",
+        "completed": false
+      },
+      {
+        "id": 3,
+       "title": "Pet dog",
+        "completed": false
+      },
+      {
+        "id": 4,
+       "title": "Say hi",
+        "completed": false
+      }
+  ]
+}
