@@ -12,8 +12,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-Also, you need to run the json.db file.
-You can run it by opening a new CMD window, and running command: npm run server
+###Also, you need to run the json.db file, if you want to test the program properly.
+##You can run it by opening a new CMD window, and running command: npm run server
 
 
 ### `npm test`
