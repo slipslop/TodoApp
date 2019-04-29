@@ -31,3 +31,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.container {
+  padding: 0 1rem;
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  background: red;
+  color: white;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+.btn:hover {
+  background: blue;
+}
+
+
+.img{
+  width: 100px;
+}
